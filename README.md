@@ -239,7 +239,7 @@ Discover upcoming features on our roadmap in the [AgentSphere Documentation](htt
 
 ## License 📜
 
-This project contains code under multiple licenses. The current codebase includes components licensed under the AgentSphere License with an additional requirement to preserve the "AgentSphere" branding, as well as prior contributions under their respective original licenses. For a detailed record of license changes and the applicable terms for each section of the code, please refer to [LICENSE_HISTORY](./LICENSE_HISTORY). For complete and updated licensing details, please see the [LICENSE](./LICENSE) and [LICENSE_HISTORY](./LICENSE_HISTORY) files.
+Copyright (c) Abdul Ismail. All rights reserved. See [LICENSE](./LICENSE).
 
 ## Support 💬
 
